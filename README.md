@@ -10,3 +10,5 @@ Java爬虫爬取抖音视频评论
 2. VideoService中替换你的userAgent和Cookie
 3. 爬完后sleep的目的，是为了避免反爬虫监控发现，发现后cookie就不能用了，只能换一个号
 4. 数据库可根据VideoInfo和CommentInfo反推，videoInfo的requestObj没用到，本想存储请求信息
+
+本次爬取抖音视频评论信息，仅为了朋友的毕业论文目的，不作商业用途，欢迎进一步交流QQ群：923073081
